@@ -3,7 +3,7 @@ from my_Stack import *
 from my_Queue import *
 
 print(list_towns())
-places = random_names(5)
+places = random_names(5) #asked to draw five places in assignment
 print(places)
 
 class my_Item:
